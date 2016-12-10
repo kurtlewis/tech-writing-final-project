@@ -20,7 +20,7 @@ There are a number of differences between working for a small or a large company
   - [Small](https://github.com/kurtlewis/tech-writing-final-project/blob/master/StartupVsEnterpriseDevelopment.md#downsides)
   - [Large](https://github.com/kurtlewis/tech-writing-final-project/blob/master/StartupVsEnterpriseDevelopment.md#downsides-1)
 
- With any company there are downsides, some downsides can be generalized between large and small companies. Being aware of downsides allows for 
+ With any company there are downsides, some downsides can be generalized between large and small companies. Being aware of downsides is important, because no company, large or small, will be perfect in every regard.
 
 # Small Companies
 ## Work flows
@@ -33,7 +33,7 @@ Employees at a small company also likely do a number of different jobs. They mus
 Small companies, especially those who deal primarily with software, tend to be more attuned to the open source community. Their quick turnaround times mean that they can leverage new technologies quicker, and some companies even encourage open source contribution as part of work. Startups have become infamous for their lax cultures, where employees may nap, play games, or work in informal environments. Dress codes vary from casual to business casual for software engineers. Employees at small companies are often much more invested in their company's project, as its success has a much more direct impact on their lives. The culture at startups are built to encourage employees to spend time at work, and often a `work-as-a-family` mentality is encouraged. 
 ![](nerf.jpg "Nerf wars are a common occurrence at some startups - credit Ian Golding")
 ## Advancement
-Small companies are just that, small. The small size of teams mean there are less positions at a small company, which means that there are in turn less positions to move into. In addition, raises depend upon the success of the company - a company struggling to succeed does not have the capital to invest n their already employed team. On the other hand, a very successful startup can reward employees with stock, bonuses, and free time to pursue personal interests. Raises can be based on a number of things, from reviews to overall productivity. 
+The small size of teams at small companies mean there are less positions at a small company, which means that there are in turn less positions to move into. In addition, raises depend upon the success of the company - a company struggling to succeed does not have the capital to invest in their already employed team. On the other hand, a very successful startup can reward employees with stock, bonuses, and free time to pursue personal interests. Raises can be based on a number of things, from reviews to overall productivity. 
 ## Downsides
 At a small company, one of the largest challenges is providing value to investors. This means that sometimes employees are required to put in long hours for weeks at a time. This is expected behavior and defacto rule at many small companies. Additionally, many small companies do not have the budget to pay high salaries, and employees may be paid less then they are worth. The startup world is volatile, as companies vie for the funding necessary to stay alive. A startup struggling to establish itself offers little to no job security. Thus, employees must be passionate about the technology and goals of the organization.
 
