@@ -2,15 +2,23 @@
 There are a number of differences between working for a small or a large company. For someone looking to enter the workforce, or change employments, it can be difficult to know which companies to target. This document will outline some of the differences between small and large companies in the area of software development. While every company is different, I have generalized the differences between small and large companies, defining some key terms that might be prevalent during the job search. 
 # Overview
  - Work flow
-
+  - [Small](https://github.com/kurtlewis/tech-writing-final-project/blob/master/StartupVsEnterpriseDevelopment.md#work-flows)
+  - [Large](https://github.com/kurtlewis/tech-writing-final-project/blob/master/StartupVsEnterpriseDevelopment.md#work-flows-1)
+ 
  One of the largest differences between small and large companies is their work flows. Development cycles vary immensely from company to company, but trends begin to appear among small and large companies.
  - Culture
-
+  - [Small](https://github.com/kurtlewis/tech-writing-final-project/blob/master/StartupVsEnterpriseDevelopment.md#culture)
+  - [Large](https://github.com/kurtlewis/tech-writing-final-project/blob/master/StartupVsEnterpriseDevelopment.md#culture-1)
+ 
  Company culture is one of the most important factors in workplace happiness. Large companies and small companies often differ greatly in culture. Culture is something that varies between companies just as much as work flows, but generalizations can be drawn between small and large companies.
  - Advancement
+  - [Small](https://github.com/kurtlewis/tech-writing-final-project/blob/master/StartupVsEnterpriseDevelopment.md#advancement)
+  - [Large](https://github.com/kurtlewis/tech-writing-final-project/blob/master/StartupVsEnterpriseDevelopment.md#advancement-1)
 
  Advancement works differently from company to company, but especially between large and small companies. For many, knowing what the path forward looks like is important when choosing a workplace.
  - Downsides
+  - [Small](https://github.com/kurtlewis/tech-writing-final-project/blob/master/StartupVsEnterpriseDevelopment.md#downsides)
+  - [Large](https://github.com/kurtlewis/tech-writing-final-project/blob/master/StartupVsEnterpriseDevelopment.md#downsides-1)
 
  With any company there are downsides, some downsides can be generalized between large and small companies. Being aware of downsides allows for 
 
